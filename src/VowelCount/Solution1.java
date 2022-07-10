@@ -1,5 +1,7 @@
 package VowelCount;
 
+//time complexity:4 ms
+
 class Solution1 
 {
 	public static int getCount(String str) 

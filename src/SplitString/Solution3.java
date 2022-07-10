@@ -1,6 +1,7 @@
 package SplitString;
 
 //time:1 ms
+
 class Solution3 
 {
 	public static String[] solution(String givenString) 

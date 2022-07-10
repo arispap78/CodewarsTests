@@ -2,6 +2,8 @@ package PhoneNumber;
 
 import java.util.Arrays;
 
+//time complexity:39 ms
+
 class Solution7 
 {
 	private static String array2str(int[] arr, Integer start, Integer end) 

@@ -2,6 +2,8 @@ package PhoneNumber;
 
 import java.util.stream.IntStream;
 
+//time complexity:106 ms
+
 class Solution6 
 {
 	 public static String createPhoneNumber(int[] numbers) 

@@ -1,6 +1,7 @@
 package Multiples3or5;
 
 //time:8 ms for number=1000000
+
 class Solution1 
 {
 	public static int solution(int number) {

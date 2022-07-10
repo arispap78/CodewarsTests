@@ -1,5 +1,7 @@
 package Tribonachi;
 
+//time complexity:14 ms for number=200
+
 class Solution2 
 {
 	public static double[] tribonacci(double[] s, int n) 

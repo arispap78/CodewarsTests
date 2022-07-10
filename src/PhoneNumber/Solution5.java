@@ -1,5 +1,7 @@
 package PhoneNumber;
 
+//time complexity:1 ms
+
 class Solution5
 {
 	public static String createPhoneNumber(int[] numbers) 

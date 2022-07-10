@@ -2,6 +2,8 @@ package PhoneNumber;
 
 import java.util.Arrays;
 
+//time complexity:107 ms
+
 class Solution4 
 {
 	 private static String PHONE_FORMAT = "(%d%d%d) %d%d%d-%d%d%d%d";

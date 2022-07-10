@@ -1,5 +1,7 @@
 package Multiples3or5;
 
+//time complexity:2 ms for number=1000000
+
 /*
 The sum of multiples of 3 is 3 + 6 + 9 + ... = 3 (1+2+3+...)
 The sum of mulitples of 5 is 5 + 10 + 15 + ... = 5 (1+2+3+...)

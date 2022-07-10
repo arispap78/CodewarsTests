@@ -2,6 +2,8 @@ package Tribonachi;
 
 import java.util.stream.Stream;
 
+//time complexity:102 ms for number=200
+
 class Solution3
 {
 	public static double[] tribonacci(double[] s, int n) 

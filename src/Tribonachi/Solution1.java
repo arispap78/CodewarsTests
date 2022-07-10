@@ -2,6 +2,8 @@ package Tribonachi;
 
 import java.util.Arrays;
 
+//time complexity:14 ms for number=200
+
 class Solution1 
 {
 	public static double[] tribonacci(double[] s, int n)

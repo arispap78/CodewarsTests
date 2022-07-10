@@ -2,7 +2,8 @@ package Multiples3or5;
 
 import java.util.stream.IntStream;
 
-//time:94 ms for number=1000000
+//time:113 ms for number=1000000
+
 class Solution2 
 {
 	public static int solution(int number) 
